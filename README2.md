@@ -1,7 +1,7 @@
-Multi-Tool Conversational AI with LangGraph and Google Gemini
-This notebook builds a chatbot that can solve math problems, check the weather, and share fashion trends based on location. It uses Google’s Gemini model through LangChain for smart responses and spaCy for understanding locations. LangGraph manages the conversation flow to decide which tool to call.
+##Multi-Tool Conversational AI with LangGraph and Google Gemini
+--This notebook builds a chatbot that can solve math problems, check the weather, and share fashion trends based on location. It uses Google’s Gemini model through LangChain for smart responses and spaCy for understanding locations. LangGraph manages the conversation flow to decide which tool to call.
 
-How the Notebook is Structured
+##How the Notebook is Structured
 1. Setup and API Key Handling
 We start by importing required libraries and setting your Google API key securely with getpass. This keeps your key safe while the notebook runs.
 
